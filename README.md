@@ -1,5 +1,17 @@
 # Algoritmy
 
-## Řadící algoritmy
+Implementace základních algoritmů v Pythonu.
 
--  `bubblesort.ipynb` - Bubble sort
+## Řazení
+
+- [ ] Bubble sort
+- [ ] Merge sort
+- [ ] Quick sort
+
+## Vyhledávání
+
+- [ ] Binární vyhledávání
+
+## Stromy
+
+- [ ] Binární vyhledávací strom
